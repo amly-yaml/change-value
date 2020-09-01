@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MeterToInches_21Apps</string>
+    <string name="convert">Convert to Celsius</string>
+    <string name="error">Please put valid number</string>
+</resources>
